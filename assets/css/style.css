@@ -1,0 +1,36 @@
+html{
+    background-image: url(../images/prism.png);
+}
+body{
+     background-image: url(../images/prism.png);
+}
+.title{
+    margin-bottom: 20px;
+}
+.title-top{
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+#total {
+    font-size: 32px;
+}
+#randomText {
+    font-size: 32px;
+}
+#winsText {
+    font-size: 32px;
+}
+#lossesText {
+    font-size: 32px;
+}
+.jumbotron {
+    margin: 0;
+}
+.display-4,
+.card-header {
+    font-weight: bolder;
+}
+.card-body{
+    padding: 10px;
+}
